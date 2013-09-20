@@ -1,0 +1,34 @@
+Intro
+
+-A comfy environment will make you more productive
+-Familiarity with my environment will make future tutorials more friendly
+-Take waht you want, leave what you dont.
+-Please make suggestions!
+
+Install a nice theme
+   https://github.com/CGCookie/script-bakery/tree/master/scripts/presets/interface_theme
+
+
+Bookmark the blender python wiki
+   http://wiki.blender.org/
+
+Bookmark the regular python docs
+   http://docs.python.org/3/library/index.html
+
+Other nice bookmarks (your project page, github or bitbucket etc)
+
+Set your blender script path for auto updating
+
+Use a GIT or Hg or other version control software
+
+Set up a remote repo if you want one
+
+Have an autocompleting IDE
+     -http://airplanes3d.net/index_e.html
+
+Update your autocompeltion files for current blender
+
+Make a test .blend
+
+Get going!
+
